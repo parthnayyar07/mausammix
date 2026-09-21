@@ -1,0 +1,9 @@
+xarray
+zarr
+gcsfs
+dask
+numpy
+pandas
+matplotlib
+netCDF4
+h5netcdf
